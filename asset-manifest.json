@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/monstorpictureset/static/css/main.2646c8e3.css",
+    "main.js": "/monstorpictureset/static/js/main.3a82c7a5.js",
+    "index.html": "/monstorpictureset/index.html",
+    "main.2646c8e3.css.map": "/monstorpictureset/static/css/main.2646c8e3.css.map",
+    "main.3a82c7a5.js.map": "/monstorpictureset/static/js/main.3a82c7a5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2646c8e3.css",
+    "static/js/main.3a82c7a5.js"
+  ]
+}
